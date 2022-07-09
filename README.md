@@ -2,6 +2,6 @@
 
 <img align="center" src="https://raw.githubusercontent.com/mishra-aditya1/tarana/main/img/tarana.png"></a>
 
-### Live Demo on [mishra-aditya1.github.io/tarana/](https://github.com/mishra-aditya1/tarana/)
+### Live Demo on [mishra-aditya1.github.io/tarana](https://mishra-aditya1.github.io/tarana/)
 
 
