@@ -11,7 +11,7 @@
     "tarana",
     "music-player"
   ],
-  "author": "Sonu Kumar Kushwaha <flyingsonu736@gmail.com>",
+  "author": "Aditya Mishra <adityamishra9999096478@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
